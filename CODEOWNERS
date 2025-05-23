@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @yogaadipranata
+/src/backend/database.py      @yogaadipranata
+/src/backend/routers/auth.py  @yogaadipranata
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @yogaadipranata
